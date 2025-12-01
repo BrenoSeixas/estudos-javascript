@@ -6,6 +6,7 @@ import initModal from "./js/modulos/modal.js";
 import initTooltip from "./js/modulos/tooltip.js";
 import initDropdownMenu from "./js/modulos/dropdown-menu.js";
 import initMenuMobile from "./js/modulos/menu-mobile.js";
+import initAnimaNumeros from "./js/modulos/anima-numeros.js";
 
 initScrollSuave();
 initAnimacaoScroll();
@@ -15,3 +16,4 @@ initModal();
 initTooltip();
 initDropdownMenu();
 initMenuMobile();
+initAnimaNumeros();
