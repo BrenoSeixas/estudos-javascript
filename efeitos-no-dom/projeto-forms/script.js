@@ -15,7 +15,7 @@ const handleStyle = {
     this.element.style.width = value + "px";
   },
   texto(value) {
-    this.element.innerText.texto = value;
+    this.element.innerText = value;
   },
   color(value) {
     this.element.style.color = value;
